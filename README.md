@@ -13,13 +13,11 @@ A small Python module that works out extra-hours fees by age group, hours and si
 | `daycare_fees.py` | The module under test |
 | `test_daycare_fees.py` | Starter test file |
 
-Keep all your Lab 6 work in this `LAB6` folder. Lab 7 will be added to this repo later.
-
-Refer to the lab handout for instructions.
+All Lab 6 deliverables are available in the repository root for easy access.
 
 ## Coverage results
 
-Run these commands from the `Lab 6` directory:
+Run these commands from the repository root:
 
 ```bash
 python3 -m coverage run --source=. -m pytest CodeCoverageTest_daycare_fees.py
